@@ -1,6 +1,9 @@
 # RickRollLogs
 
-a tool to rick roll access logs 
+A tool to rick roll access logs 
+
+## why:
+I'm sorry, I was bored 
 
 ## usage:
 
